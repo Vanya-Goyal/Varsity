@@ -1,8 +1,8 @@
 Varsity 
 
 Welcome to Varsity, a dynamic and user-centric Online Learning Management System (LMS) built to empower students and instructors alike. Powered by the robust Django framework in Python, Varsity Start offers a seamless platform for learning, teaching, and mastering Data Structures and Algorithms (DSA) through interactive courses, assignments, and quizzes.
-🚀 Features
-For Students
+
+🚀 Features For Students
 
 Course Marketplace: Browse and purchase a wide range of expertly crafted courses tailored to enhance your skills.
 DSA-Style Assignments: Tackle real-world coding challenges designed to strengthen your problem-solving and algorithmic thinking.
