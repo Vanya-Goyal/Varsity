@@ -1,0 +1,36 @@
+# Ignore virtual environments
+venv/
+env/
+ENV/
+myenv/
+ve1/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Django database and collected static files
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Ignore secret environment variables
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor/IDE settings
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore node.js files if using React/Vite
+node_modules/
+build/
+dist/
